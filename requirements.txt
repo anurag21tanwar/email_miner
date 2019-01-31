@@ -1,0 +1,9 @@
+hvac
+boto3
+requests
+sendgrid
+python-dotenv
+pymongo
+pikepdf
+mail-parser
+pyotp
